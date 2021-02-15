@@ -69,7 +69,7 @@ class Parking {
                 if (x.payed == true) {
                     result += 'Has payed';
                 } else {
-                    result += 'Not payed';
+                     result += 'Not payed';
 
                 }
 
